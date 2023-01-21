@@ -1,4 +1,4 @@
-# IBM AI Enterprise Workflow Certification - Capstone Solution Files
+# IBM AI Enterprise Workflow Capstone Solution
 
 
 Usage notes
